@@ -14,8 +14,8 @@
 3. * Manual Seeding
 ![Manual](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Manual%20Seeding.png)
    * Evolutions
-   ![Evolution1](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%201.png)
-   ![Evolution2](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%202.png)
+   ![Evolution1](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%202.png)
+   ![Evolution2](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%201.png)
 4. Various Grid Sizes
    * Small 
    ![Small Grid](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Alternate%20Grid%20Size.png)
