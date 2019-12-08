@@ -17,4 +17,7 @@
    ![Evolution1](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%201.png)
    ![Evolution2](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Evolution%20-%202.png)
 4. Various Grid Sizes
-![Grid](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Alternate%20Grid%20Size.png)
+   * Small 
+   ![Small Grid](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Alternate%20Grid%20Size.png)
+   * Large
+   ![Large Grid](https://github.com/vishishtpriyadarshi/Game-of-Life/blob/master/img/Grid%20-%202.png)
